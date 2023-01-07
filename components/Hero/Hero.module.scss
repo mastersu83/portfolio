@@ -1,0 +1,20 @@
+.hero {
+  &__inner {
+  }
+  &__title {
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 101px;
+    color: #06caf8;
+    margin: 125px 0 104px;
+  }
+  &__description {
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 128.9%;
+    color: #f3f3f3;
+  }
+}
